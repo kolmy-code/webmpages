@@ -1,0 +1,34 @@
+# Images Directory
+
+This directory is intended for image assets. For this portfolio website, you can add:
+
+- Profile photos
+- Project screenshots
+- Company logos
+- Background images
+- Icons and graphics
+
+## Recommended Image Sizes
+
+- **Profile Photo**: 400x400px (square)
+- **Project Screenshots**: 1200x800px (3:2 ratio)
+- **Hero Background**: 1920x1080px (16:9 ratio)
+- **Icons**: 64x64px or 128x128px
+
+## Image Optimization
+
+For best performance, optimize images before adding them:
+- Use WebP format when possible
+- Compress images to reduce file size
+- Use appropriate dimensions for their display size
+- Consider using a CDN for production
+
+## Current Implementation
+
+The website currently uses:
+- Font Awesome icons for visual elements
+- CSS gradients for backgrounds
+- Placeholder divs for project images
+- SVG patterns for decorative elements
+
+To add real images, simply replace the placeholder elements in the HTML with proper `<img>` tags and update the CSS accordingly.
